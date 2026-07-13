@@ -1,0 +1,51 @@
+# =========================
+# Web Framework
+# =========================
+fastapi
+uvicorn[standard]
+
+# =========================
+# LangGraph & LangChain
+# =========================
+langgraph
+langgraph-checkpoint-sqlite
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# =========================
+# Database
+# =========================
+sqlalchemy
+
+# =========================
+# Validation
+# =========================
+pydantic
+python-dotenv
+
+# =========================
+# Date & Time Parsing
+# =========================
+python-dateutil
+
+# =========================
+# HTTP Requests (Webhook)
+# =========================
+requests
+
+# =========================
+# Utilities
+# =========================
+typing-extensions
+
+# =========================
+# Logging
+# =========================
+loguru
+
+# =========================
+# Optional (Development)
+# =========================
+httpx
