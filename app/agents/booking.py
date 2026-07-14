@@ -7,7 +7,7 @@ from app.services.parser import extract_booking_details
 from app.tools.availability import check_availability
 from app.tools.notification import send_booking_notification
 from app.tools.reservation import reserve_slot
-from app.utils.data_parser import normalize_date
+from app.utils.date_parser import normalize_date
 from app.utils.logger import logger
 
 
